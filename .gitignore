@@ -1,0 +1,3 @@
+pool-ui/dist/
+redis/data/
+geth/data/
