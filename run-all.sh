@@ -9,7 +9,7 @@ cd ../redis
 sleep 3
 
 cd ../pool
-./run-eth-pool.sh
+./run-core-pool.sh
 sleep 2
 
 cd ../pool-ui
@@ -17,7 +17,7 @@ cd ../pool-ui
 sleep 2
 
 cd ../pool-payouts
-./run-eth-pool-payouts.sh
+./run-core-pool-payouts.sh
 sleep 2
 
 cd ../redis-cmd
