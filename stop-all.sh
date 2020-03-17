@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 ./redis-cmd/stop-redis-cmd.sh
-./pool-payouts/stop-eth-pool-payouts.sh
+./pool-payouts/stop-core-pool-payouts.sh
 ./pool-ui/stop-pool-ui.sh
-./pool/stop-eth-pool.sh
+./pool/stop-core-pool.sh
 ./redis/stop-redis.sh
 ./geth/stop-geth.sh
 

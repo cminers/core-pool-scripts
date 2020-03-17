@@ -1,7 +1,7 @@
-# Open Ethereum Pool Docker infrastructure
+# Open Core Pool Docker infrastructure
 
 Use the awesome [Docker CE](https://www.docker.com/community-edition) to get
-[sammy007/open-ethereum-pool](https://github.com/sammy007/open-ethereum-pool) up and running quickly.
+[Cminers/core-pool-scripts](https://github.com/Cminers/core-pool-scripts) up and running quickly.
 
 ## Instructions on how to run this project
 
@@ -14,7 +14,7 @@ Use the awesome [Docker CE](https://www.docker.com/community-edition) to get
 4. Clone this repository to local drive:
 
 ```
-git clone https://github.com/valera-rozuvan/eth-pool-docker-infra.git
+git clone https://github.com/Cminers/core-pool-scripts.git
 ```
 
 5. Launch a node on the Ethereum mainnet network:

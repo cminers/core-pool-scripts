@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'open-ethereum-pool',
+    modulePrefix: 'core-pool',
     environment: environment,
     rootURL: '/',
     locationType: 'hash',

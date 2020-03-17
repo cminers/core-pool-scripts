@@ -1,8 +1,8 @@
 {
-  "name": "open-ethereum-pool",
+  "name": "core-pool",
   "version": "0.0.0",
   "private": true,
-  "description": "Open Ethereum Pool",
+  "description": "Core Pool",
   "license": "MIT",
   "author": "",
   "directories": {
